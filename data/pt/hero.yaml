@@ -1,0 +1,8 @@
+enable: true
+title: "Gin-Ryu Karate-Do - 銀流空手道"
+subtitle: "Tradição, Disciplina e Simplicidade"
+content: "Site oficial do estilo Gin-Ryu - Um projeto construído com Hugo e Cloudflare."
+image: "/images/hero.jpg" # Uma foto do Dojo ou do estilo em static/images/
+actions:
+  - name: "Conheça o Estilo"
+    url: "#about"

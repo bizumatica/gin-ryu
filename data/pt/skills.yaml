@@ -1,0 +1,13 @@
+enable: true
+id: "skills"
+title: "Graduações e Técnicas"
+skills:
+  - name: "Kihon"
+    percentage: 100
+    description: "Fundamentos: te-waza, ashi-waza e nage-waza."
+  - name: "Kata"
+    percentage: 85
+    description: "Formas do estilo."
+  - name: "Kumite"
+    percentage: 75
+    description: "Combate e aplicação prática."

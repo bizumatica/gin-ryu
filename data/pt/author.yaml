@@ -1,0 +1,9 @@
+name: "Julio Studio"
+nickname: "Julio"
+role: "Desenvolvedor & Karateka"
+email: "julio.prata@proton.me"
+avatar: "/images/avatar.png" # Coloque uma foto sua em static/images/avatar.png
+bio: "Desenvolvedor apaixonado por tecnologia e praticante do estilo Gin-Ryu Karate."
+contact:
+  phone: "+55 (11) 96488-1236"
+  address: "Itatiba, Brasil"
